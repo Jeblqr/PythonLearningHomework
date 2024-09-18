@@ -1,0 +1,5 @@
+hunger 100
+happiness 42
+healthiness 0
+hours 7
+status 1
